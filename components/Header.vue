@@ -9,7 +9,7 @@
                 About
             </NuxtLink>
         </nav>
-        <img src="/logo.svg" class="h-9" alt="logo">
+        <img src="../public/logo2.svg" class="h-20" alt="logo">
         <div class="flex gap-4">
             <NuxtLink class="font-normal text-lg text-gray-800/60 hover:text-gray-800" to="/">
                 works
